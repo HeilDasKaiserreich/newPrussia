@@ -2637,6 +2637,6 @@
  POR_unstable_monarchy:0 "Unstable Monarchy"
  POR_the_portuguese_empire:0 "The Portuguese Empire"
  
- trv_apartheid:0 "Apartheid"
- trv_legacy_of_the_revolution:0 "Legacy of the Revolution"
- trv_pm_hertzog:0 "Prime minister J. B. M. Hertzog"
+ TRV_apartheid:0 "Apartheid"
+ TRV_legacy_of_the_revolution:0 "Legacy of the Revolution"
+ TRV_pm_hertzog:0 "Prime minister J. B. M. Hertzog"
